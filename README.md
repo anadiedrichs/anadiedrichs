@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-**anadiedrichs/anadiedrichs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on my Ph.D thesis
 - 🌱 I’m currently studying for the tidyverse certification
 - 👯 I’m looking to collaborate on open source projects.
